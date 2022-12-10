@@ -1,6 +1,5 @@
 package com.tests;
 
-import org.apache.commons.collections4.iterators.SkippingIterator;
 import org.testng.Assert;
 import org.testng.SkipException;
 import org.testng.annotations.BeforeSuite;
